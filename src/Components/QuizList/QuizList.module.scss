@@ -1,0 +1,11 @@
+.quizlist {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    background-color: gray;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 50px;
+    margin: 10% 20% 0 20%;
+}
