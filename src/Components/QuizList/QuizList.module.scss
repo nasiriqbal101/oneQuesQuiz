@@ -1,11 +1,18 @@
 .quizlist {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-    background-color: gray;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 50px;
-    margin: 10% 20% 0 20%;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  background-color: rgb(240, 236, 236);
+  font-size: 18px;
+  font-weight: bold;
+  padding: 50px;
+  margin: 10% 20% 0 20%;
+}
+.answerBox {
+  border: 1px solid rgb(236, 233, 233);
+  padding: 4px;
+}
+.answer {
+  color: green;
 }
